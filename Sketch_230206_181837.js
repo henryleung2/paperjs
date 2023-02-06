@@ -1,0 +1,10 @@
+var path = new    Path();
+path.strokeColor = 'black'; 
+path.add(new       Point(50, 50));
+//th.moveTo(start);
+path.add(new Point(100, 50));
+path.add(new Point(128, 80));
+path.add(new Point(100, 110));
+path.add(new Point( 50, 110));
+path.add(new Point( 22, 80));
+path.add(new Point( 50, 50));
